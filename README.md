@@ -1,26 +1,32 @@
-## About Me
-
-## 🔭 Working on
-Full-stack web development using MERN stack (learning phase)
-Building beginner-to-intermediate real-world projects
-Improving logic building through DSA (Java)
+## 💫 About Me
+ Working on Full-stack web development (MERN stack - learning phase)
+ Building beginner-to-intermediate real-world projects
+ Improving problem-solving skills through DSA (Java)
 
 ## 👯 Looking to collaborate on
-Student-level open source projects
-MERN stack beginner-friendly web apps
-Simple AI-integrated web projects (learning stage)
+Open-source beginner-friendly projects
+MERN stack web applications
+Simple AI-integrated learning projects
 
 ## 🤝 Looking for help with
-Backend development (Node.js, Express.js)
-Writing clean and scalable project structure
-DSA problem-solving strategies
+Backend development (Node.js + Express.js)
+Writing clean project architecture
+DSA problem-solving techniques
 
 ## 🌱 Currently learning
-Frontend: HTML, CSS, JavaScript, React (in progress)
-Backend: Node.js + Express.js (beginner level)
-DSA in Java (consistency focus)
-Basic AI concepts for future integration
+HTML, CSS, JavaScript, React (Frontend)
+Node.js + Express.js (Backend basics)
+DSA in Java (Arrays, Strings, Binary Search, Recursion)
+Basic AI concepts for future projects
+
+## 💬 Ask me about
+MERN stack basics
+JavaScript & React fundamentals
+DSA learning roadmap (beginner level)
+How I build simple projects (Quiz App, YouTube Clone)
 
 ## 🧩 Problem Solving
-- 🔗 https://leetcode.com/u/Chandni_rawat77/
-- Practicing Data Structures & Algorithms in Java
+🔗 LeetCode: https://leetcode.com/u/Chandni_rawat77/
+Practicing DSA daily in Java
+Focused on improving logic and consistency
+
